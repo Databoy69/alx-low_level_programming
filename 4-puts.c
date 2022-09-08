@@ -1,3 +1,5 @@
+cat main 4-puts.c
+
 #!/bin/bash
 
 #include <stdio.h>
