@@ -1,12 +1,9 @@
-cat main 4-puts.c
-
-#!/bin/bash
-
 #include <stdio.h>
 /**
-* main - entry point 
-*
-*Return: 0 after printing the function 
+* main - print the string in the put function
+Description: using the main function
+* this program prints "Programming is like building a mutillingual puzzel
+*Return: 0 
 */
 
 int main(void)
