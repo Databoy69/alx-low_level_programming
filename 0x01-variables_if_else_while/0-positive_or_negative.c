@@ -15,9 +15,6 @@ int main(void)
 
         int n;
 
-
-
-<<<<<<< HEAD
         srand(time(0));
 
         n = rand() - RAND_MAX / 2;
@@ -36,6 +33,7 @@ int main(void)
         }
         printf("\n");
    return (0);
+<<<<<<< HEAD
 =======
 	srand(time(0));
 
@@ -62,3 +60,5 @@ int main(void)
 }
 
 >>>>>>> afdb56298af42cfec83e4d7d22cbf79c6b72355a
+=======
+>>>>>>> cf6106aaec7f9347921f70dc5a85bdbc7ec7cc39
