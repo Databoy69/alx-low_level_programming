@@ -1,15 +1,11 @@
 #include "main.h"
-
 /**
- * main - check the code for Holberton School students.
- *
- * Return: Always 0.
+ * times_table - a function that prints the 9 times table, starting with 0
+ * rone = row, cone = column, d = digits of current result
+ * Return: times table
+ * add extra space past single digit
  */
-int main(void)
-{
-	times_table();
-	return (0);
-}
+void times_table(void)
 {
 	int rone, cone, d;
 
