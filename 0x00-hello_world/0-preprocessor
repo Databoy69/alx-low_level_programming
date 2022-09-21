@@ -1,2 +1,1 @@
-echo '#!/bin/bash'
-gcc -o c $CFILE -E
+#!/bin/bash
