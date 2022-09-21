@@ -1,10 +1,2 @@
 #!/bin/bash
-gcc -S $CFILE >> 2-assembler
-echo gcc -S  >> 2-assembler
-
-chmod u+x root@b1e8be556660:/alx-low_level_programming/0x00-hello_world# chmod u+x
-
-root@b1e8be556660:/alx-low_level_programming/0x00-hello_world# chmod u+x
-echo gcc -S
-gcc -S $CFILE
 gcc -S $CFILE
