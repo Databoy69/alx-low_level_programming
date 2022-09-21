@@ -1,2 +1,74 @@
 #!/bin/bash
 gcc -S $CFILE
+#!/bin/bash > 3-name
+echo gcc -S
+gcc -S $CFILE
+gcc -S $CFILE >> 2-assembler
+git commit -m "Write a script that generates the assembly code of a C code and save it in an output file"
+echo gcc -S
+#!/bin/bash > 3-name
+clear
+
+root@b1e8be556660:/alx-low_level_programming/0x00-hello_world# chmod u+x
+
+
+clear
+
+root@b1e8be556660:/alx-low_level_programming/0x00-hello_world# chmod u+x
+
+
+
+clear
+
+root@b1e8be556660:/alx-low_level_programming/0x00-hello_world# chmod u+x
+
+
+clear
+
+root@b1e8be556660:
+
+
+
+
+
+
+
+
+
+git commit -m "Write a script that generates the assembly code of a C code and save it in an output file"
+clear
+
+root@b1e8be556660:/alx-low_level_programming/0x00-hello_world# chmod u+x
+
+
+clear
+
+root@b1e8be556660:/alx-low_level_programming/0x00-hello_world# chmod u+x
+
+
+
+clear
+
+root@b1e8be556660:/alx-low_level_programming/0x00-hello_world# chmod u+x
+
+
+clear
+
+root@b1e8be556660:
+
+
+
+
+
+
+
+
+
+git commit -m "Write a script that generates the assembly code of a C code and save it in an output file"
+
+
+
+
+
+
+echo gcc -S
